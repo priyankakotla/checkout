@@ -1,0 +1,47 @@
+{"basics":{
+  "image":"img.png",
+  "name":"varshi",
+  "phoneno":"+91-1234567891",
+  "email":"varshikaindukuri@gmail.com",
+  "Address":"SRKR College,Bhimavaram."
+},
+"CareerObjectives":{
+  "info":"Career Objective in Resume is the most important part of resume which describe your motive of professional career and Job. So it should be originally written by your own words that what you want for your future growth and what is the objective of your career."
+},
+"education":[
+{
+"degree":"Btech",
+"institute":"SRKR College",
+"data":["2016-2020","80%"]
+},
+{
+"degree":"intermediate",
+"institute":"Aditya College",
+"data":["2014-2016","94%"]
+},
+{
+"degree":"SSC",
+"institute":"Aditya Talent School",
+"data":["2014","97%"]
+}
+],
+"skills":[
+  {
+    "title":"languages",
+    "data":["c","c++","java","ruby"]
+  },
+  {
+    "title":"database",
+    "data":["sql","mysql","oracle"]
+  },
+  {
+    "title":"operating systems",
+    "data":["sql","mysql","oracle"]
+  }
+],
+"Achievements":
+{
+  "ppt":"got prize in ppt",
+  "ace":"member of ace"
+}
+}
